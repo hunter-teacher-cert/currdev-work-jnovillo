@@ -27,8 +27,8 @@ The assignment allows the students to work with a large data set as the Census. 
 
 **Lesson addressing the standard:**
 
-A lesson on search algorithms addresses this standard. The teacher focus the lesson on explaining how linear and binary search work. Then the students implement the algorithms in the programming language they are learning. After that, the students can run multiple tests to compare and analyze the efficience of both algorithms.
+A lesson on search algorithms addresses this standard. The teacher focuses the lesson on explaining how linear and binary search work. Then the students implement the algorithms in the programming language they are learning. After that, the students can run multiple tests to compare and analyze the efficiency of both algorithms.
 
 **How does the lesson address the standard?**
 
-By understanding and implementing the two searching algorithms: linear and binary, the students are targeting the focus of the standard wich is to demostrate how two or more computer science algorithm works. Also by testing the algorithms, students can observe the processing time and memory use to analyze those observations determine which one is more efficient which is a purpose of this standard too.
+By understanding and implementing the two searching algorithms: linear and binary, the students are targeting the focus of the standard, which is to demonstrate how two or more computer science algorithm works. Also, by testing the algorithms, students can observe the processing time and memory used to analyze those observations to determine which one is more efficient, which is another purpose of this standard.
