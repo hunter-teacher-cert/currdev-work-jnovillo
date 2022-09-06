@@ -1,4 +1,4 @@
-## Assignment 00: Standards
+# Assignment 00: Standards
 
 ### Jessica Novillo Argudo
 
@@ -8,6 +8,8 @@
 * Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your selected standards, explain how.
 * You can use the same lesson/task/assignment for both, or different ones.
 ---
+
+## Standard 1
 
 ### 9-12.CT.3: Refine and visualize complex data sets to tell different stories with the same data set.
 
@@ -19,7 +21,15 @@ Students would be given a data set with much information, for example, the Censu
 
 The assignment allows the students to work with a large data set as the Census. That data set has much information, so students have to define the best-learned tool that allows them to work more efficiently in terms of processing time and resources. Students would also practice filtering, cleaning, and refining the data. Moreover, through the charts they create, they can easily visualize different types of information, which will help them analyze the data by making comparisons or showing relationships between the charts.
 
+## Standard 2
 
 ### 9-12.CT.6 Demonstrate how at least two classic algorithms work, and analyze the trade-offs related to two or more algorithms for completing the same task.
+
+**Lesson addressing the standard:**
+
+A lesson on search algorithms addresses this standard. The teacher focus the lesson on explaining how linear and binary search work. Then the students implement the algorithms in the programming language they are learning. After that, the students can run some tests to analyze the efficience of both algorithms.
+
+**How does the lesson address the standard?**
+
 
 The focus of this standard is a high-level understanding that algorithms involve trade- offs, especially related to memory use and speed. Students should understand that classic algorithms are solved problems that can be reused.
