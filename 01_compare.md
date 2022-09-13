@@ -21,8 +21,7 @@ The two APCSP curricula I will compare are [CodeHS - Python](https://codehs.com/
 
 ### Major differences
 
-* The main focus of CS Matters is data. It covers data acquisition, manipulation of large data sets, and data visualization. While the CodeHS-Python approach is broader than just covering data, it also covers creative development, algorithms and programming, computing systems and networks, and the impact of computing.
-
+* Both curricula integrate all the APCSP big ideas: creative development, algorithms and programming, data, computing systems and networks, and the impact of computing. However, the main focus of CS Matters is data. It covers data acquisition, manipulation of large data sets, and data visualization. In contrast, the CodeHS-Python approach is broader.
 
 * CodeHS's first unit focuses on programming to allow students to create computational artifacts, while CS Matters focuses on the effect of data in the real world.
 
